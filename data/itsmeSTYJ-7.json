@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Miso contest",
+  "handle": "itsmeSTYJ",
+  "address": "0xBCa294543b46fF11CFAFbCF67434BEa23c21404b",
+  "risk": "0",
+  "title": "Wrong auction type in revert message for crowdloan.sol",
+  "issueId": 7,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushimiso-findings/issues/7"
+}
