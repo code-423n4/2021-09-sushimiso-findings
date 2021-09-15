@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Miso contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "3",
+  "title": "nonReentrant missing in several commitEth functions",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushimiso-findings/issues/22"
+}
