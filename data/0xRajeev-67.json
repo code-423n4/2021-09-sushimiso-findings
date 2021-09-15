@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Miso contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "finalize is susceptible to front-running leading to DoS and contract redeployment",
+  "issueId": 67,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushimiso-findings/issues/67"
+}
