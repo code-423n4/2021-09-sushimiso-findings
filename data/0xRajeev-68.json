@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Miso contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Unnecessary zero check on variable which is never initialized earlier",
+  "issueId": 68,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushimiso-findings/issues/68"
+}
