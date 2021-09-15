@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Miso contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "3",
+  "title": "Last person to withdraw his tokens might not be able to do this, in Crowdsale (edge case)",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushimiso-findings/issues/15"
+}
