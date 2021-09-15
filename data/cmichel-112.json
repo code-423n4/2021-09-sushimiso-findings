@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Miso contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "`WETH9` does not emit `Approval` event on transfer",
+  "issueId": 112,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushimiso-findings/issues/112"
+}
