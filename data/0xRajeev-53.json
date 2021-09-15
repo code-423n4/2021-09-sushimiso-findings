@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Miso contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Payable external init is redundant and may allow unaccounted token claims or DoS",
+  "issueId": 53,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushimiso-findings/issues/53"
+}
