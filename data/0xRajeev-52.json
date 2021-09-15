@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Miso contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Single-step wallet address change is risky",
+  "issueId": 52,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushimiso-findings/issues/52"
+}
