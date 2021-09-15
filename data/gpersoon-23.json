@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Miso contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "2",
+  "title": "funds will get lost in deployAccessControl if devaddr isn't set",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushimiso-findings/issues/23"
+}
