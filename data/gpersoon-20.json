@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Miso contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "token2 and weth in PostAuctionLauncher",
+  "issueId": 20,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushimiso-findings/issues/20"
+}
