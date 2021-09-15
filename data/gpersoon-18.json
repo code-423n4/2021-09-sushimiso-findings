@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Miso contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "2",
+  "title": "Random ERC20 tokens can be sweeped from MISOMarket ",
+  "issueId": 18,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushimiso-findings/issues/18"
+}
