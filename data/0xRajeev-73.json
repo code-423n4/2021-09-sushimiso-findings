@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Miso contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Event parameters interchanged for emit of access control template addition",
+  "issueId": 73,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushimiso-findings/issues/73"
+}
