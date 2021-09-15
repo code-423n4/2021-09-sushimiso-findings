@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Miso contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Missing check on array lengths being same",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushimiso-findings/issues/46"
+}
